@@ -4,6 +4,7 @@
 <img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOP/assets/140635378/855d93c6-ca5f-4878-a33a-8f5a07ab1d67">
 <img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOP/assets/140635378/a5be2af4-9630-4afe-9321-543a0aaed3c2">
 <img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOP/assets/140635378/eedc71f1-c3a2-477b-8343-8d1c683356c9">
-<img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOP/assets/140635378/855d93c6-ca5f-4878-a33a-8f5a07ab1d67">
+<img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOP/assets/140635378/af9001e1-7e9d-4b9a-b467-d275bb48d86f">
 <img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOP/assets/140635378/db6e7ee2-11c0-4a48-bf45-e9d93c1c1d95">
+
 
