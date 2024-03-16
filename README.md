@@ -1,3 +1,3 @@
 <h1>Практическая работа №4 (магазин машинок)<h1>
 <h2>Скриншот работы<h2>
-<img width="509" alt="Снимок экрана 2024-03-06 в 11 30 30" src="https://github.com/Dasheeer/lab_2_shkaf/assets/140635378/018c2116-469d-4d6d-b862-6b1a7769e2a7">
+![image](https://github.com/Dasheeer/ladaSHOP/assets/140635378/dff2a640-3440-4e55-a45b-5eb6102ec103)
