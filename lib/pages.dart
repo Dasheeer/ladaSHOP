@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'date_base.dart';
 import 'page_user.dart';
 
+
 class PageStore extends StatefulWidget {
   const PageStore({super.key});
 
@@ -59,19 +60,20 @@ class _MyWidgetState extends State<PageStore> {
                 catalog_cars[index].discription,
                 overflow: TextOverflow.ellipsis,
                 maxLines: 2,
-                style: const TextStyle(fontSize: 16, color: Colors.black), textAlign: TextAlign.center,
+                style: const TextStyle(fontSize: 19, color: Colors.black), textAlign: TextAlign.center,
               ),
               const SizedBox(
                 height: 8,
               ),
               Text(
                 catalog_cars[index].price.toString() + " ₽",
-                style: const TextStyle(fontSize: 20, color: Colors.black, backgroundColor: Color.fromRGBO(
+                style: const TextStyle(fontSize: 22, color: Colors.black, backgroundColor: Color.fromRGBO(
                     169, 106, 106, 1.0)),
               ),
               const SizedBox(
                 height: 8,
-              )
+              ),
+
             ],
           ),
         ),
