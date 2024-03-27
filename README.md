@@ -11,8 +11,12 @@
 <img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOP/assets/140635378/fd8bade1-1c7b-4802-90a0-6d119fd18c83">
      <h2>Страница товара<h2> 
 <img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOP/assets/140635378/92d5efe2-db18-40fd-87ba-55b2434529db">
-
+ <h2>Работа ютуб-плеера<h2> 
 <img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOP/assets/140635378/488dcd7b-ea5c-408e-b6c4-a7778282789c">
+   <h2>Работа свайпа в тексте<h2> 
+    <img width="524" alt="Снимок экрана 2024-03-27 в 11 26 20" src="https://github.com/Dasheeer/ladaSHOP/assets/140635378/1da20d77-9b91-44ec-89fe-cdc9d2405b9e">
+<img width="523" alt="Снимок экрана 2024-03-27 в 11 27 39" src="https://github.com/Dasheeer/ladaSHOP/assets/140635378/05f39e2d-8cc9-4b8f-82f9-b6cd6c408687">
+  <h2>Остальные товары<h2> 
 <img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOP/assets/140635378/5c4a4f36-f3bd-455a-a4f9-660d336a92ad">
 <img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOP/assets/140635378/0a8f9c8e-1803-41ac-88fa-02cdd889898a">
 
