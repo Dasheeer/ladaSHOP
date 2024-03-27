@@ -1,8 +1,10 @@
 <h1>Практическая работа №4 (магазин машинок)<h1>
 <h2>Скриншот работы<h2>
+<h2>Регистрация<h2>
 <img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOP/assets/140635378/a1ebd40c-8526-4f29-9054-05170b0733a6">
+ <h2>Вход<h2> 
 <img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOP/assets/140635378/855d93c6-ca5f-4878-a33a-8f5a07ab1d67">
-обновление - корзина и лайк
+ <h2>Обновление - корзина и лайк<h2>
 <img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOP/assets/140635378/8709b5e5-5166-464a-9a69-4748157f0a2c">
 <img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOP/assets/140635378/3f3111a0-6f6b-4d71-b39f-d5e503f558d8">
 <img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOP/assets/140635378/fd8bade1-1c7b-4802-90a0-6d119fd18c83">
